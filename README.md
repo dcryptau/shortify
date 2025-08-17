@@ -1,8 +1,9 @@
-# 🔗 Shortify – Modern URL Shortener
+# 🔗 Shortify – Modern URL Shortener 
 
 Shortify is a simple yet powerful URL shortener built with **Node.js, Express, MongoDB, and EJS**.  
 It allows users to shorten long URLs, copy/share them easily, and manage all their links in a beautiful UI with **search, pagination, and copy-to-clipboard** features.  
 
+## Live Link: https://shortify-iwas.onrender.com/
 ---
 
 ## ✨ Features
