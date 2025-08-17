@@ -17,8 +17,8 @@ It allows users to shorten long URLs, copy/share them easily, and manage all the
 
 ## 🛠️ Tech Stack
 - **Backend**: Node.js, Express.js  
-- **Frontend**: EJS, CSS (custom design)  
-- **Database**: MongoDB (Atlas or Local)  
+- **Frontend**: EJS, CSS  
+- **Database**: MongoDB   
 - **Other**: dotenv, nodemon (for development)  
 
 ---
